@@ -1,0 +1,21 @@
+{
+    "name": "test/zhenglijuan",
+    "description": "empty project",
+    "require-dev": {},
+    "authors": [
+        {
+            "name": "fuhongli14",
+            "email": "312280391@qq.com"
+        }
+    ],
+    "minimum-stability": "dev",
+	"require": {
+        "php": ">=5.5.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "Ford\\Escape\\": "src/Ford/Escape",
+            "Ford\\Fiesta\\": "src/Ford/Fiesta"
+        }
+    }
+}
