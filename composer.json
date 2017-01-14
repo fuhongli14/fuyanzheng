@@ -8,6 +8,8 @@
             "email": "312280391@qq.com"
         }
     ],
+	"type": "project",
+	"license":"MIT",
     "minimum-stability": "dev",
 	"require": {
         "php": ">=5.5.0"
